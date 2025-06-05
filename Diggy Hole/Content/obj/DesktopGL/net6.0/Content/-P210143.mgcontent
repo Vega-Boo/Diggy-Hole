@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Debug/Debug.spritefont</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Debug/pixel.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Dwarfs/1.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Dwarfs/2.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Dwarfs/3.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Dwarfs/4.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Dwarfs/Headlamp2.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Dwarfs/HeadLampLight.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Dwarfs/playerBaseLight.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Fonts/BiggestFont.spritefont</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Fonts/MainFont.spritefont</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Fonts/PausedFont.spritefont</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/HUD/Bar.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/HUD/HandSheet.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/HUD/HollowStar.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/HUD/Item Sheet.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/HUD/ItemWheel.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/HUD/Pointer.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/HUD/Star.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/HUD/WheelSheet.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Music/mineAmbience.mp3</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Music/music1.mp3</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Music/music2.mp3</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Placeholder/MineTileSheet.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/PysicalItems/Item Sheet.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/PysicalItems/LampLight.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/PysicalItems/Lantern.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Screens/BrickTransition.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Screens/MonoGame.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Screens/MonoGame2.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Screens/screenBackground.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Screens/Title2.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Screens/Vega.png</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/SFX/cashRegister.wav</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/SFX/cavein.wav</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/SFX/clearCavein.wav</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/SFX/depositCart.wav</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/SFX/pickaxeBlow.wav</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/SFX/roackFall2.wav</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/SFX/rockFall.wav</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/SFX/shoveling.wav</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/SFX/walking1.wav</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/SFX/walking2.wav</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Shaders/LightShader.fx</File>
+    <File>C:/Users/ec1932873/OneDrive - Edinburgh College/Year 6 - HND Games Development/Semester 2/Graded Unit/Diggy Hole/Diggy Hole/Content/Tutorial/Miner Mike Scaled.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
