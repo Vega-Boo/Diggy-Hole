@@ -1,0 +1,78 @@
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Debug\Debug.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Debug\pixel.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Dwarfs\1.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Dwarfs\2.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Dwarfs\3.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Dwarfs\4.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Dwarfs\Headlamp2.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Dwarfs\HeadLampLight.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Dwarfs\playerBaseLight.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Fonts\BiggestFont.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Fonts\MainFont.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Fonts\PausedFont.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Fonts\TitleFont.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\HUD\Bar.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\HUD\Crown.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\HUD\HandSheet.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\HUD\HollowStar.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\HUD\Item Sheet.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\HUD\ItemWheel.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\HUD\Pointer.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\HUD\Star.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\HUD\WheelSheet.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Music\mineAmbience.ogg
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Music\mineAmbience.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Music\music1.ogg
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Music\music1.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Music\music2.ogg
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Music\music2.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Placeholder\MineTileSheet.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\PysicalItems\Item Sheet.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\PysicalItems\LampLight.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\PysicalItems\Lantern.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Screens\BrickTransition.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Screens\ControlScheme.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Screens\MonoGame.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Screens\MonoGame2.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Screens\screenBackground.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Screens\Title2.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Screens\TitleScaled.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Screens\TitleScaled2.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Screens\Vega.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\SFX\cashRegister.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\SFX\cavein.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\SFX\clearCavein.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\SFX\depositCart.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\SFX\pickaxeBlow.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\SFX\roackFall2.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\SFX\rockFall.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\SFX\shoveling.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\SFX\walking1.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\SFX\walking2.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Shaders\LightShader.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Content\Tutorial\Miner Mike Scaled.xnb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Diggy Hole.exe
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Diggy Hole.deps.json
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Diggy Hole.runtimeconfig.json
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Diggy Hole.dll
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\Diggy Hole.pdb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\MonoGame.Framework.dll
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\bin\Release\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\obj\Release\net6.0\Diggy Hole.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\obj\Release\net6.0\Diggy Hole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\obj\Release\net6.0\Diggy Hole.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\obj\Release\net6.0\Diggy Hole.AssemblyInfo.cs
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\obj\Release\net6.0\Diggy Hole.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\obj\Release\net6.0\Diggy Hole.csproj.CopyComplete
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\obj\Release\net6.0\Diggy Hole.dll
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\obj\Release\net6.0\refint\Diggy Hole.dll
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\obj\Release\net6.0\Diggy Hole.pdb
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\obj\Release\net6.0\Diggy Hole.genruntimeconfig.cache
+C:\Users\rober\OneDrive - Edinburgh College\Year 6 - HND Games Development\Semester 2\Graded Unit\RR - GU2 Dev - Diggy Hole\Diggy Hole\Diggy Hole\obj\Release\net6.0\ref\Diggy Hole.dll
